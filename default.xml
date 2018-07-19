@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<remote fetch="https://github.com/Team-SDIoT/" name="EazyExit" />
+    
+    <project name="FastLED.git" path="lib/FastLED" remote="EazyExit" revision="c1ab8fa86f6d6ecbf40ab7f28b36116a3c931916" />
+    <project name="pubsubclient.git" path="lib/PubSubClient" remote="EazyExit" revision="dddfffbe0c497073d960f3b9f83c8400dc8cad6d" />
+    <project name="ESP8266wifi.git" path="lib/ESP8266wifi" remote="EazyExit" revision="cc03db7dadfb492cd86b252be04bf3451f1d6fde" />
+
+</manifest>    
